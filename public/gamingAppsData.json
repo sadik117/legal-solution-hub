@@ -1,0 +1,155 @@
+[
+    {
+      "id": "game001",
+      "name": "Shadow Legends",
+      "developer": "Epic Studios",
+      "thumbnail": "https://i.ibb.co/v6GWTC2c/lightning-shadow-1024x1024.png",
+      "banner": "https://i.ibb.co/v6GWTC2c/lightning-shadow-1024x1024.png",
+      "downloads": 4500000,
+      "category": "Gaming",
+      "rating": 4.6,
+      "description": "A fantasy RPG game where you collect legendary heroes and battle epic bosses.",
+      "features": ["PvP Arena", "Hundreds of champions", "Stunning graphics"],
+      "reviews": [
+        {
+          "user": "dragon_slayer",
+          "rating": 5,
+          "comment": "One of the most addictive mobile games I've played!"
+        }
+      ]
+    },
+    {
+      "id": "game002",
+      "name": "Pixel Racer",
+      "developer": "RetroPlay Inc.",
+      "thumbnail": "https://i.ibb.co/dwtjkCyM/Adobe-Stock-1130997501-Preview.jpg",
+      "banner": "https://i.ibb.co/dwtjkCyM/Adobe-Stock-1130997501-Preview.jpg",
+      "downloads": 1200000,
+      "category": "Gaming",
+      "rating": 4.4,
+      "description": "Old-school racing fun with pixel graphics and thrilling tracks.",
+      "features": ["Retro vibe", "30+ cars", "Global leaderboards"],
+      "reviews": [
+        {
+          "user": "racer_jake",
+          "rating": 4,
+          "comment": "Great gameplay, love the 90s feel."
+        }
+      ]
+    },
+    {
+      "id": "game003",
+      "name": "BattleStrike Royale",
+      "developer": "Alpha Fire",
+      "thumbnail": "https://i.ibb.co/JF0jNPRg/clash-royale-856x1024.png",
+      "banner": "https://i.ibb.co/JF0jNPRg/clash-royale-856x1024.png",
+      "downloads": 7800000,
+      "category": "Gaming",
+      "rating": 4.7,
+      "description": "Fast-paced battle royale action with realistic graphics and survival mode.",
+      "features": ["Multiplayer", "Solo/Duo/Squad", "Custom Skins"],
+      "reviews": [
+        {
+          "user": "ghost_recon",
+          "rating": 5,
+          "comment": "Best BR experience on mobile!"
+        }
+      ]
+    },
+    {
+      "id": "game004",
+      "name": "Brain Blox",
+      "developer": "ThinkWare",
+      "thumbnail": "https://i.ibb.co/1t4z5NQF/artificial-intelligence-1024x741.png",
+      "banner": "https://i.ibb.co/1t4z5NQF/artificial-intelligence-1024x741.png",
+      "downloads": 2000000,
+      "category": "Gaming",
+      "rating": 4.2,
+      "description": "Fun and challenging puzzle blocks game to train your brain.",
+      "features": ["Brain training", "500+ puzzles", "No WiFi needed"],
+      "reviews": [
+        {
+          "user": "puzzlequeen",
+          "rating": 4,
+          "comment": "Addictive and smart!"
+        }
+      ]
+    },
+    {
+      "id": "game005",
+      "name": "Zombie Hunt",
+      "developer": "DeadLine Games",
+      "thumbnail": "https://i.ibb.co/tTQvW1CG/shambling-zombie-1024x1024.png",
+      "banner": "https://i.ibb.co/tTQvW1CG/shambling-zombie-1024x1024.png",
+      "downloads": 3300000,
+      "category": "Gaming",
+      "rating": 4.5,
+      "description": "Defend your base from zombie hordes in this intense FPS tower defense.",
+      "features": ["Weapon upgrades", "Story mode", "HD graphics"],
+      "reviews": [
+        {
+          "user": "zombie_killer",
+          "rating": 5,
+          "comment": "Satisfying gameplay and good story!"
+        }
+      ]
+    },
+    {
+      "id": "game006",
+      "name": "Tower Tycoon",
+      "developer": "Buildify",
+      "thumbnail": "https://i.ibb.co/My0hSy20/eiffel-tower-1024x1023.png",
+      "banner": "https://i.ibb.co/My0hSy20/eiffel-tower-1024x1023.png",
+      "downloads": 950000,
+      "category": "Gaming",
+      "rating": 4.1,
+      "description": "Build and manage your own tower empire. Grow fast and smart!",
+      "features": ["Idle game", "Business simulation", "Upgrades & boosts"],
+      "reviews": [
+        {
+          "user": "builder_bob",
+          "rating": 4,
+          "comment": "Simple but fun!"
+        }
+      ]
+    },
+    {
+      "id": "game007",
+      "name": "Mystic Merge",
+      "developer": "Arcane Arts",
+      "thumbnail": "https://i.ibb.co/JwNpL3md/elf-936x1024.png",
+      "banner": "https://i.ibb.co/JwNpL3md/elf-936x1024.png",
+      "downloads": 1450000,
+      "category": "Gaming",
+      "rating": 4.3,
+      "description": "Merge magical items to evolve creatures and unlock ancient secrets.",
+      "features": ["Merge puzzle", "Fantasy setting", "Cute graphics"],
+      "reviews": [
+        {
+          "user": "mysticfan",
+          "rating": 4,
+          "comment": "Very relaxing and beautiful art!"
+        }
+      ]
+    },
+    {
+      "id": "game008",
+      "name": "Street Ballers",
+      "developer": "Hoop Kings",
+      "thumbnail": "https://i.ibb.co/6c4kBN5t/baker-street-512x512.png",
+      "banner": "https://i.ibb.co/6c4kBN5t/baker-street-512x512.png",
+      "downloads": 2900000,
+      "category": "Gaming",
+      "rating": 4.6,
+      "description": "3-on-3 street basketball with real-time PvP and epic dunks!",
+      "features": ["Online matches", "Real-time PvP", "Character customization"],
+      "reviews": [
+        {
+          "user": "dunklord",
+          "rating": 5,
+          "comment": "Super smooth controls and multiplayer is fire!"
+        }
+      ]
+    }
+  ]
+  

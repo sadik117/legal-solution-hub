@@ -1,0 +1,107 @@
+[
+    {
+      "id": "app001",
+      "name": "Programming Hero",
+      "developer": "Programming Hero Ltd.",
+      "thumbnail": "https://i.ibb.co/0jpw7zsG/programming-hero-910x1024.png",
+      "banner": "https://i.ibb.co/0jpw7zsG/programming-hero-910x1024.png",
+      "downloads": 3500000,
+      "category": "Education",
+      "rating": 4.8,
+      "description": "Learn coding interactively with fun lessons and projects.",
+      "features": ["Interactive coding lessons", "Real-world projects", "Gamified learning experience"],
+      "reviews": [{"user": "coder_nadia", "rating": 5, "comment": "Best app for beginners!"}]
+    },
+    {
+      "id": "app002",
+      "name": "Duolingo",
+      "developer": "Duolingo Inc.",
+      "thumbnail": "https://i.ibb.co/zTdF4hc5/duolingo-1024x1014.png",
+      "banner": "https://i.ibb.co/zTdF4hc5/duolingo-1024x1014.png",
+      "downloads": 8000000,
+      "category": "Education",
+      "rating": 4.7,
+      "description": "Learn languages in a fun, bite-sized way.",
+      "features": ["Daily language challenges", "Speaking and writing lessons", "Interactive quizzes"],
+      "reviews": [{"user": "polyglot123", "rating": 5, "comment": "Super engaging and effective!"}]
+    },
+    {
+      "id": "app003",
+      "name": "Khan Academy",
+      "developer": "Khan Academy Inc.",
+      "thumbnail": "https://i.ibb.co/mC91KfgL/khan-academy-725x1024.png",
+      "banner": "https://i.ibb.co/mC91KfgL/khan-academy-725x1024.png",
+      "downloads": 9000000,
+      "category": "Education",
+      "rating": 4.9,
+      "description": "Free, high-quality education for everyone, anywhere.",
+      "features": ["Lessons in Math, Science, and more", "Video tutorials", "Personalized learning dashboard"],
+      "reviews": [{"user": "learner101", "rating": 5, "comment": "Amazing content for all ages!"}]
+    },
+    {
+      "id": "app004",
+      "name": "Coursera",
+      "developer": "Coursera Inc.",
+      "thumbnail": "https://i.ibb.co/j9CzbZ9D/coursera-1024x1024.png",
+      "banner": "https://i.ibb.co/j9CzbZ9D/coursera-1024x1024.png",
+      "downloads": 10000000,
+      "category": "Education",
+      "rating": 4.6,
+      "description": "Online courses from top universities and companies.",
+      "features": ["University-accredited courses", "Certificates", "Video lectures"],
+      "reviews": [{"user": "career_booster", "rating": 4, "comment": "Great variety of content!"}]
+    },
+    {
+      "id": "app005",
+      "name": "edX",
+      "developer": "edX Inc.",
+      "thumbnail": "https://i.ibb.co/wZfgbhfY/edx-1024x624.png",
+      "banner": "https://i.ibb.co/wZfgbhfY/edx-1024x624.png",
+      "downloads": 4000000,
+      "category": "Education",
+      "rating": 4.5,
+      "description": "Join millions of learners from around the world with free online courses.",
+      "features": ["Ivy League content", "Flexible learning", "Professional certificates"],
+      "reviews": [{"user": "knowledge_hunter", "rating": 4, "comment": "Helpful for career advancement."}]
+    },
+    {
+      "id": "app006",
+      "name": "Udemy",
+      "developer": "Udemy Inc.",
+      "thumbnail": "https://i.ibb.co/6q3t31Y/udemy-1024x1024.png",
+      "banner": "https://i.ibb.co/6q3t31Y/udemy-1024x1024.png",
+      "downloads": 15000000,
+      "category": "Education",
+      "rating": 4.4,
+      "description": "Learn anything from coding to cooking with affordable video courses.",
+      "features": ["Thousands of courses", "Expert instructors", "Lifetime access"],
+      "reviews": [{"user": "self_learner", "rating": 5, "comment": "Perfect platform for self-learning!"}]
+    },
+    {
+      "id": "app007",
+      "name": "Quizlet",
+      "developer": "Quizlet Inc.",
+      "thumbnail": "https://i.ibb.co/svzfg6Pq/quizlet-1011x1024.png",
+      "banner": "https://i.ibb.co/svzfg6Pq/quizlet-1011x1024.png",
+      "downloads": 6000000,
+      "category": "Education",
+      "rating": 4.6,
+      "description": "Study smarter with flashcards, games, and more.",
+      "features": ["Create flashcards", "Practice tests", "Study games"],
+      "reviews": [{"user": "exam_ready", "rating": 5, "comment": "Made my test prep so much easier!"}]
+    },
+    {
+      "id": "app008",
+      "name": "Brilliant",
+      "developer": "Brilliant.org",
+      "thumbnail": "https://i.ibb.co/RTW0QGxb/brilliant-1024x1024.png",
+      "banner": "https://i.ibb.co/RTW0QGxb/brilliant-1024x1024.png",
+      "downloads": 3000000,
+      "category": "Education",
+      "rating": 4.7,
+      "description": "Master problem-solving in math, science, and computer science.",
+      "features": ["Interactive problem-solving", "Visual explanations", "Daily challenges"],
+      "reviews": [{"user": "math_geek", "rating": 5, "comment": "Engaging and visually amazing!"}]
+    }
+  ]
+  

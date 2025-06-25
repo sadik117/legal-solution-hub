@@ -1,0 +1,412 @@
+[
+    {
+      "id": "app001",
+      "name": "Programming Hero",
+      "developer": "Programming Hero Ltd.",
+      "thumbnail": "https://i.ibb.co/0jpw7zsG/programming-hero-910x1024.png",
+      "banner": "https://i.ibb.co/0jpw7zsG/programming-hero-910x1024.png",
+      "downloads": 3500000,
+      "category": "Education",
+      "rating": 4.8,
+      "description": "Learn coding interactively with fun lessons and projects.",
+      "features": ["Interactive coding lessons", "Real-world projects", "Gamified learning experience"],
+      "reviews": [{"user": "coder_nadia", "rating": 5, "comment": "Best app for beginners!"}]
+    },
+    {
+      "id": "app002",
+      "name": "Duolingo",
+      "developer": "Duolingo Inc.",
+      "thumbnail": "https://i.ibb.co/zTdF4hc5/duolingo-1024x1014.png",
+      "banner": "https://i.ibb.co/zTdF4hc5/duolingo-1024x1014.png",
+      "downloads": 8000000,
+      "category": "Education",
+      "rating": 4.7,
+      "description": "Learn languages in a fun, bite-sized way.",
+      "features": ["Daily language challenges", "Speaking and writing lessons", "Interactive quizzes"],
+      "reviews": [{"user": "polyglot123", "rating": 5, "comment": "Super engaging and effective!"}]
+    },
+    {
+      "id": "app003",
+      "name": "Khan Academy",
+      "developer": "Khan Academy Inc.",
+      "thumbnail": "https://i.ibb.co/mC91KfgL/khan-academy-725x1024.png",
+      "banner": "https://i.ibb.co/mC91KfgL/khan-academy-725x1024.png",
+      "downloads": 9000000,
+      "category": "Education",
+      "rating": 4.9,
+      "description": "Free, high-quality education for everyone, anywhere.",
+      "features": ["Lessons in Math, Science, and more", "Video tutorials", "Personalized learning dashboard"],
+      "reviews": [{"user": "learner101", "rating": 5, "comment": "Amazing content for all ages!"}]
+    },
+    {
+      "id": "app004",
+      "name": "Coursera",
+      "developer": "Coursera Inc.",
+      "thumbnail": "https://i.ibb.co/j9CzbZ9D/coursera-1024x1024.png",
+      "banner": "https://i.ibb.co/j9CzbZ9D/coursera-1024x1024.png",
+      "downloads": 10000000,
+      "category": "Education",
+      "rating": 4.6,
+      "description": "Online courses from top universities and companies.",
+      "features": ["University-accredited courses", "Certificates", "Video lectures"],
+      "reviews": [{"user": "career_booster", "rating": 4, "comment": "Great variety of content!"}]
+    },
+    {
+      "id": "app005",
+      "name": "edX",
+      "developer": "edX Inc.",
+      "thumbnail": "https://i.ibb.co/wZfgbhfY/edx-1024x624.png",
+      "banner": "https://i.ibb.co/wZfgbhfY/edx-1024x624.png",
+      "downloads": 4000000,
+      "category": "Education",
+      "rating": 4.5,
+      "description": "Join millions of learners from around the world with free online courses.",
+      "features": ["Ivy League content", "Flexible learning", "Professional certificates"],
+      "reviews": [{"user": "knowledge_hunter", "rating": 4, "comment": "Helpful for career advancement."}]
+    },
+    {
+      "id": "app006",
+      "name": "Udemy",
+      "developer": "Udemy Inc.",
+      "thumbnail": "https://i.ibb.co/6q3t31Y/udemy-1024x1024.png",
+      "banner": "https://i.ibb.co/6q3t31Y/udemy-1024x1024.png",
+      "downloads": 15000000,
+      "category": "Education",
+      "rating": 4.4,
+      "description": "Learn anything from coding to cooking with affordable video courses.",
+      "features": ["Thousands of courses", "Expert instructors", "Lifetime access"],
+      "reviews": [{"user": "self_learner", "rating": 5, "comment": "Perfect platform for self-learning!"}]
+    },
+    {
+      "id": "app007",
+      "name": "Quizlet",
+      "developer": "Quizlet Inc.",
+      "thumbnail": "https://i.ibb.co/svzfg6Pq/quizlet-1011x1024.png",
+      "banner": "https://i.ibb.co/svzfg6Pq/quizlet-1011x1024.png",
+      "downloads": 6000000,
+      "category": "Education",
+      "rating": 4.6,
+      "description": "Study smarter with flashcards, games, and more.",
+      "features": ["Create flashcards", "Practice tests", "Study games"],
+      "reviews": [{"user": "exam_ready", "rating": 5, "comment": "Made my test prep so much easier!"}]
+    },
+    {
+      "id": "app008",
+      "name": "Brilliant",
+      "developer": "Brilliant.org",
+      "thumbnail": "https://i.ibb.co/RTW0QGxb/brilliant-1024x1024.png",
+      "banner": "https://i.ibb.co/RTW0QGxb/brilliant-1024x1024.png",
+      "downloads": 3000000,
+      "category": "Education",
+      "rating": 4.7,
+      "description": "Master problem-solving in math, science, and computer science.",
+      "features": ["Interactive problem-solving", "Visual explanations", "Daily challenges"],
+      "reviews": [{"user": "math_geek", "rating": 5, "comment": "Engaging and visually amazing!"}]
+    },
+    {
+      "id": "health001",
+      "name": "MyFitnessPal",
+      "developer": "Under Armour",
+      "thumbnail": "https://i.ibb.co/yBFNRXrL/myfitnesspal-1024x1007.png",
+      "banner": "https://i.ibb.co/yBFNRXrL/myfitnesspal-1024x1007.png",
+      "downloads": 10000000,
+      "category": "Health",
+      "rating": 4.6,
+      "description": "Track your calories, macros, and exercise to stay on top of your fitness goals.",
+      "features": ["Calorie counter", "Workout logging", "Community support"],
+      "reviews": [
+        {
+          "user": "fitlife_jane",
+          "rating": 5,
+          "comment": "Helps me stay on track every single day!"
+        }
+      ]
+    },
+    {
+      "id": "health002",
+      "name": "DIMS",
+      "developer": "Incepta Inc.",
+      "thumbnail": "https://i.ibb.co/0ywwt0Nb/dims.jpg",
+      "banner": "https://i.ibb.co/0ywwt0Nb/dims.jpg",
+      "downloads": 8000000,
+      "category": "Health",
+      "rating": 4.7,
+      "description": "Medicines and medication made simple with guided sessions and sleep aids.",
+      "features": ["Medication sessions", "Specified Medicine", "Daily medicine reminders"],
+      "reviews": [
+        {
+          "user": "zen_guy",
+          "rating": 5,
+          "comment": "Best way to start and end my day."
+        }
+      ]
+    },
+    {
+      "id": "health003",
+      "name": "Flo",
+      "developer": "Flo Health Inc.",
+      "thumbnail": "https://i.ibb.co/bgq3PBqv/hourglass-with-flowing-sand-771x1024.png",
+      "banner": "https://i.ibb.co/bgq3PBqv/hourglass-with-flowing-sand-771x1024.png",
+      "downloads": 12000000,
+      "category": "Health",
+      "rating": 4.8,
+      "description": "Track your menstrual cycle, fertility, and health with accuracy and insights.",
+      "features": ["Cycle tracking", "Health articles", "Community Q&A"],
+      "reviews": [
+        {
+          "user": "healthwise_girl",
+          "rating": 5,
+          "comment": "So informative and helpful!"
+        }
+      ]
+    },
+    {
+      "id": "health004",
+      "name": "Fitbit",
+      "developer": "Fitbit LLC",
+      "thumbnail": "https://i.ibb.co/Xvq9bMT/fitbit-1024x1014.png",
+      "banner": "https://i.ibb.co/Xvq9bMT/fitbit-1024x1014.png",
+      "downloads": 15000000,
+      "category": "Health",
+      "rating": 4.5,
+      "description": "Track steps, heart rate, sleep, and more to stay healthy and active.",
+      "features": ["Heart rate monitor", "Sleep tracking", "Activity goals"],
+      "reviews": [
+        {
+          "user": "runner_dan",
+          "rating": 4,
+          "comment": "Perfect companion for my workouts."
+        }
+      ]
+    },
+    {
+      "id": "health005",
+      "name": "Nike Training Club",
+      "developer": "Nike Inc.",
+      "thumbnail": "https://i.ibb.co/1t1JFGTN/party-1024x835.png",
+      "banner": "https://i.ibb.co/1t1JFGTN/party-1024x835.png",
+      "downloads": 7000000,
+      "category": "Health",
+      "rating": 4.6,
+      "description": "Free workouts and training plans from professional trainers.",
+      "features": ["Workout library", "Custom plans", "Expert videos"],
+      "reviews": [
+        {
+          "user": "sweatmode",
+          "rating": 5,
+          "comment": "Challenging and rewarding workouts!"
+        }
+      ]
+    },
+    {
+      "id": "health006",
+      "name": "Water Reminder",
+      "developer": "Health Apps Studio",
+      "thumbnail": "https://i.ibb.co/6JyBB847/potable-water-symbol-1024x1024.png",
+      "banner": "https://i.ibb.co/6JyBB847/potable-water-symbol-1024x1024.png",
+      "downloads": 2000000,
+      "category": "Health",
+      "rating": 4.4,
+      "description": "Stay hydrated with timely water drinking reminders and tracking.",
+      "features": ["Custom reminders", "Hydration goal tracking", "Daily stats"],
+      "reviews": [
+        {
+          "user": "aqua_lover",
+          "rating": 4,
+          "comment": "Simple and useful every day!"
+        }
+      ]
+    },
+    {
+      "id": "health007",
+      "name": "Calm",
+      "developer": "Calm.com, Inc.",
+      "thumbnail": "https://i.ibb.co/VWntnkZB/meditation-1024x1011.png",
+      "banner": "https://i.ibb.co/VWntnkZB/meditation-1024x1011.png",
+      "downloads": 10000000,
+      "category": "Health",
+      "rating": 4.7,
+      "description": "Meditation, sleep stories, breathing exercises, and music for relaxation.",
+      "features": ["Sleep stories", "Breathing exercises", "Relaxing music"],
+      "reviews": [
+        {
+          "user": "peacefulmind",
+          "rating": 5,
+          "comment": "Helps me sleep better every night."
+        }
+      ]
+    },
+    {
+      "id": "health008",
+      "name": "Samsung Health",
+      "developer": "Samsung Electronics",
+      "thumbnail": "https://i.ibb.co/VY3q78fV/samsung-health-941x1024.png",
+      "banner": "https://i.ibb.co/VY3q78fV/samsung-health-941x1024.png",
+      "downloads": 50000000,
+      "category": "Health",
+      "rating": 4.3,
+      "description": "Comprehensive fitness tracking from your mobile or wearable device.",
+      "features": ["Steps tracking", "Weight management", "Food logging"],
+      "reviews": [
+        {
+          "user": "techy_runner",
+          "rating": 4,
+          "comment": "Tracks everything in one place."
+        }
+      ]
+    },
+    {
+      "id": "game001",
+      "name": "Shadow Legends",
+      "developer": "Epic Studios",
+      "thumbnail": "https://i.ibb.co/v6GWTC2c/lightning-shadow-1024x1024.png",
+      "banner": "https://i.ibb.co/v6GWTC2c/lightning-shadow-1024x1024.png",
+      "downloads": 4500000,
+      "category": "Gaming",
+      "rating": 4.6,
+      "description": "A fantasy RPG game where you collect legendary heroes and battle epic bosses.",
+      "features": ["PvP Arena", "Hundreds of champions", "Stunning graphics"],
+      "reviews": [
+        {
+          "user": "dragon_slayer",
+          "rating": 5,
+          "comment": "One of the most addictive mobile games I've played!"
+        }
+      ]
+    },
+    {
+      "id": "game002",
+      "name": "Pixel Racer",
+      "developer": "RetroPlay Inc.",
+      "thumbnail": "https://i.ibb.co/dwtjkCyM/Adobe-Stock-1130997501-Preview.jpg",
+      "banner": "https://i.ibb.co/dwtjkCyM/Adobe-Stock-1130997501-Preview.jpg",
+      "downloads": 1200000,
+      "category": "Gaming",
+      "rating": 4.4,
+      "description": "Old-school racing fun with pixel graphics and thrilling tracks.",
+      "features": ["Retro vibe", "30+ cars", "Global leaderboards"],
+      "reviews": [
+        {
+          "user": "racer_jake",
+          "rating": 4,
+          "comment": "Great gameplay, love the 90s feel."
+        }
+      ]
+    },
+    {
+      "id": "game003",
+      "name": "BattleStrike Royale",
+      "developer": "Alpha Fire",
+      "thumbnail": "https://i.ibb.co/JF0jNPRg/clash-royale-856x1024.png",
+      "banner": "https://i.ibb.co/JF0jNPRg/clash-royale-856x1024.png",
+      "downloads": 7800000,
+      "category": "Gaming",
+      "rating": 4.7,
+      "description": "Fast-paced battle royale action with realistic graphics and survival mode.",
+      "features": ["Multiplayer", "Solo/Duo/Squad", "Custom Skins"],
+      "reviews": [
+        {
+          "user": "ghost_recon",
+          "rating": 5,
+          "comment": "Best BR experience on mobile!"
+        }
+      ]
+    },
+    {
+      "id": "game004",
+      "name": "Brain Blox",
+      "developer": "ThinkWare",
+      "thumbnail": "https://i.ibb.co/1t4z5NQF/artificial-intelligence-1024x741.png",
+      "banner": "https://i.ibb.co/1t4z5NQF/artificial-intelligence-1024x741.png",
+      "downloads": 2000000,
+      "category": "Gaming",
+      "rating": 4.2,
+      "description": "Fun and challenging puzzle blocks game to train your brain.",
+      "features": ["Brain training", "500+ puzzles", "No WiFi needed"],
+      "reviews": [
+        {
+          "user": "puzzlequeen",
+          "rating": 4,
+          "comment": "Addictive and smart!"
+        }
+      ]
+    },
+    {
+      "id": "game005",
+      "name": "Zombie Hunt",
+      "developer": "DeadLine Games",
+      "thumbnail": "https://i.ibb.co/tTQvW1CG/shambling-zombie-1024x1024.png",
+      "banner": "https://i.ibb.co/tTQvW1CG/shambling-zombie-1024x1024.png",
+      "downloads": 3300000,
+      "category": "Gaming",
+      "rating": 4.5,
+      "description": "Defend your base from zombie hordes in this intense FPS tower defense.",
+      "features": ["Weapon upgrades", "Story mode", "HD graphics"],
+      "reviews": [
+        {
+          "user": "zombie_killer",
+          "rating": 5,
+          "comment": "Satisfying gameplay and good story!"
+        }
+      ]
+    },
+    {
+      "id": "game006",
+      "name": "Tower Tycoon",
+      "developer": "Buildify",
+      "thumbnail": "https://i.ibb.co/My0hSy20/eiffel-tower-1024x1023.png",
+      "banner": "https://i.ibb.co/My0hSy20/eiffel-tower-1024x1023.png",
+      "downloads": 950000,
+      "category": "Gaming",
+      "rating": 4.1,
+      "description": "Build and manage your own tower empire. Grow fast and smart!",
+      "features": ["Idle game", "Business simulation", "Upgrades & boosts"],
+      "reviews": [
+        {
+          "user": "builder_bob",
+          "rating": 4,
+          "comment": "Simple but fun!"
+        }
+      ]
+    },
+    {
+      "id": "game007",
+      "name": "Mystic Merge",
+      "developer": "Arcane Arts",
+      "thumbnail": "https://i.ibb.co/JwNpL3md/elf-936x1024.png",
+      "banner": "https://i.ibb.co/JwNpL3md/elf-936x1024.png",
+      "downloads": 1450000,
+      "category": "Gaming",
+      "rating": 4.3,
+      "description": "Merge magical items to evolve creatures and unlock ancient secrets.",
+      "features": ["Merge puzzle", "Fantasy setting", "Cute graphics"],
+      "reviews": [
+        {
+          "user": "mysticfan",
+          "rating": 4,
+          "comment": "Very relaxing and beautiful art!"
+        }
+      ]
+    },
+    {
+      "id": "game008",
+      "name": "Street Ballers",
+      "developer": "Hoop Kings",
+      "thumbnail": "https://i.ibb.co/6c4kBN5t/baker-street-512x512.png",
+      "banner": "https://i.ibb.co/6c4kBN5t/baker-street-512x512.png",
+      "downloads": 2900000,
+      "category": "Gaming",
+      "rating": 4.6,
+      "description": "3-on-3 street basketball with real-time PvP and epic dunks!",
+      "features": ["Online matches", "Real-time PvP", "Character customization"],
+      "reviews": [
+        {
+          "user": "dunklord",
+          "rating": 5,
+          "comment": "Super smooth controls and multiplayer is fire!"
+        }
+      ]
+    }
+  ]
+  
+  

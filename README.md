@@ -50,7 +50,7 @@ Follow these steps to clone and run the project on your machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/legal-solution-hub.git
+git clone https://github.com/sadik117/legal-solution-hub.git
 cd legal-solution-hub
 2. Install Dependencies
 Make sure you have Node.js installed (preferably v18 or higher). Then run:
